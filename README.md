@@ -12,8 +12,6 @@
 
 - 🤝 I’m looking to collaborate with any open-source ML projects
 
-- 👨‍💻 All of my projects are available at [https://github.com/JithunMethusahan](https://github.com/JithunMethusahan)
-
 - 📝 I regularly write articles on https://www.linkedin.com/in/jithunmethusahan | https://medium.com/@jithunmethusahanan/ 
 
 - 💬 Ask me about **AI|Writing|Open source**
